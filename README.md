@@ -3,8 +3,8 @@
 I am a junior front-end developer from Granada, Spain. I introduced myself to coding in november 2021. After studying JavaScript, I am trying to get my first job as a developer. You can check my other social media webs, clicking on the link below. Follow me! 😄
 
 
-[![Barbara Ruiz](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/barbararm1/)
-[![Barbara Ruiz](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/babsrm1)
+[![Barbara Ruiz](https://i.imgur.com/PpAg6sA.png)](https://www.linkedin.com/in/barbararm1/)
+[![Barbara Ruiz](https://i.imgur.com/FrLKWBF.png)](https://twitter.com/babsrm1)
 
 
 <!--
