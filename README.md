@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, this is Barbara 👋
+
+I am a junior front-end developer from Granada, Spain. I introduced myself to coding in november 2021. After studying JavaScript, I am trying to get my first job as a developer. You can check my other social media webs, clicking on the link below. Follow me! 😄
+
+[Babsrm LinkedIn](https://www.linkedin.com/in/barbararm1/)
+[Babsrm Twitter](https://twitter.com/babsrm1)
 
 <!--
 **Babsrm/Babsrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
