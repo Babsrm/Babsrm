@@ -1,10 +1,9 @@
 ### Hi there, this is Barbara 👋
 
-I am a junior front-end developer from Granada, Spain. I introduced myself to coding in november 2021. After studying JavaScript, I am trying to get my first job as a developer. You can check my other social media webs, clicking on the link below. Follow me! 😄
+I am a junior developer from Granada, Spain. I introduced myself to coding in november 2021. After studying JavaScript, I tried to get my first job as a developer but I ended up studying again. Now I am currently learning Java and MySQL. Honestly, I feel more comfortable working the backend area instead of being front-end. You can check my other social media webs, clicking on the link below. Follow me! 😄
 
 
 [![Barbara Ruiz](https://i.imgur.com/PpAg6sA.png)](https://www.linkedin.com/in/barbararm1/)
-[![Barbara Ruiz](https://i.imgur.com/FrLKWBF.png)](https://twitter.com/babsrm1)
 
 ### [](https://github.com/Babsrm#about-me)About Me...
 
